@@ -12257,5 +12257,44 @@
     "start_date_local": "2026-03-16T18:47:47Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-03-18",
+    "distance": 2025.3,
+    "elevation_gain": 0.0,
+    "id": "17769970871",
+    "moving_time": 466.0,
+    "name": "Evening Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-18T19:03:31Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-18",
+    "distance": 4728.4,
+    "elevation_gain": 3.5,
+    "id": "17771493863",
+    "moving_time": 3608.0,
+    "name": "4 Camemberts f\u00fcr ein Hallelujah",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-03-18T19:57:28Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-18",
+    "distance": 6173.0,
+    "elevation_gain": 17.1,
+    "id": "17771769653",
+    "moving_time": 1173.0,
+    "name": "Night Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-18T21:21:26Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
