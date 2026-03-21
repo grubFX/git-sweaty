@@ -12309,5 +12309,18 @@
     "start_date_local": "2026-03-19T19:11:50Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-20",
+    "distance": 22564.2,
+    "elevation_gain": 143.0,
+    "id": "17795915224",
+    "moving_time": 6840.0,
+    "name": "Critical M\u00e4rz",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-20T16:54:12Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
