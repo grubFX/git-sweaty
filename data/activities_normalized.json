@@ -12322,5 +12322,18 @@
     "start_date_local": "2026-03-20T16:54:12Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-03-21",
+    "distance": 34546.1,
+    "elevation_gain": 95.8,
+    "id": "17805216694",
+    "moving_time": 6879.0,
+    "name": "Umteiflsamstag",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-03-21T11:37:48Z",
+    "type": "GravelRide",
+    "year": 2026
   }
 ]
