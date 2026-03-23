@@ -12335,5 +12335,18 @@
     "start_date_local": "2026-03-21T11:37:48Z",
     "type": "GravelRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-22",
+    "distance": 16725.6,
+    "elevation_gain": 24.6,
+    "id": "17818609027",
+    "moving_time": 6026.0,
+    "name": "Spring has sprung \ud83c\udf1e",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-22T15:31:08Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
