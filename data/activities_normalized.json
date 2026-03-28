@@ -12374,5 +12374,44 @@
     "start_date_local": "2026-03-24T20:03:34Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-03-27",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17880636541",
+    "moving_time": 611.0,
+    "name": "Night Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-03-27T21:00:40Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-28",
+    "distance": 270.7,
+    "elevation_gain": 0.0,
+    "id": "17886179165",
+    "moving_time": 305.0,
+    "name": "Lunch Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-03-28T11:13:45Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-28",
+    "distance": 355.3,
+    "elevation_gain": 7.2,
+    "id": "17886621643",
+    "moving_time": 84.0,
+    "name": "Lunch Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-03-28T11:55:58Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
