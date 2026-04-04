@@ -12504,5 +12504,18 @@
     "start_date_local": "2026-03-31T20:14:53Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-03",
+    "distance": 10363.0,
+    "elevation_gain": 139.0,
+    "id": "17964532290",
+    "moving_time": 3645.0,
+    "name": "Car frei Tag \ud83e\udea4",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-03T17:12:14Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
