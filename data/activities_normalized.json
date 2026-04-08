@@ -12530,5 +12530,44 @@
     "start_date_local": "2026-04-05T14:21:50Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-07",
+    "distance": 392.6,
+    "elevation_gain": 8.3,
+    "id": "18015249735",
+    "moving_time": 91.0,
+    "name": "Evening Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-07T18:18:29Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-07",
+    "distance": 13392.0,
+    "elevation_gain": 6.3,
+    "id": "18016654914",
+    "moving_time": 4696.0,
+    "name": "VCM Lauftraining",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-07T18:38:39Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-07",
+    "distance": 3267.2,
+    "elevation_gain": 18.5,
+    "id": "18016982552",
+    "moving_time": 739.0,
+    "name": "Evening Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-07T20:04:31Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
