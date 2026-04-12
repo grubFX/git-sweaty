@@ -12582,5 +12582,31 @@
     "start_date_local": "2026-04-09T18:10:25Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-12",
+    "distance": 11871.1,
+    "elevation_gain": 26.9,
+    "id": "18077509264",
+    "moving_time": 4598.0,
+    "name": "Waldmeilen & Freudenauer Sackgassen",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-12T11:22:52Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-12",
+    "distance": 321.8,
+    "elevation_gain": 3.8,
+    "id": "18077741792",
+    "moving_time": 61.0,
+    "name": "Lunch Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-04-12T12:49:20Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
