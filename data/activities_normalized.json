@@ -12608,5 +12608,18 @@
     "start_date_local": "2026-04-12T12:49:20Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-04-12",
+    "distance": 15008.2,
+    "elevation_gain": 62.5,
+    "id": "18083410714",
+    "moving_time": 2850.0,
+    "name": "Willhaben Shopping Trip",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-12T18:40:49Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
