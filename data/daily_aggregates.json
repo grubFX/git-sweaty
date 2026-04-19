@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-18T15:17:21.931922+00:00",
+  "generated_at": "2026-04-19T15:17:23.667384+00:00",
   "years": {
     "2015": {
       "Run": {
@@ -5935,12 +5935,13 @@
           "activity_ids": [
             "18157320226",
             "18157390116",
-            "18157628003"
+            "18157628003",
+            "18160372051"
           ],
-          "count": 3,
-          "distance": 4887.8,
-          "elevation_gain": 5.2,
-          "moving_time": 944.0
+          "count": 4,
+          "distance": 28156.6,
+          "elevation_gain": 61.300000000000004,
+          "moving_time": 5780.0
         }
       },
       "Run": {
@@ -6276,6 +6277,17 @@
           "distance": 6992.4,
           "elevation_gain": 26.3,
           "moving_time": 2390.0
+        },
+        "2026-04-19": {
+          "activity_ids": [
+            "18166946533",
+            "18168169503",
+            "18169857551"
+          ],
+          "count": 3,
+          "distance": 24110.8,
+          "elevation_gain": 71.39999999999999,
+          "moving_time": 8128.0
         }
       },
       "Swim": {
@@ -6545,6 +6557,15 @@
           "distance": 994.8,
           "elevation_gain": 3.8,
           "moving_time": 448.0
+        },
+        "2026-04-19": {
+          "activity_ids": [
+            "18166941775"
+          ],
+          "count": 1,
+          "distance": 1233.0,
+          "elevation_gain": 0.0,
+          "moving_time": 812.0
         }
       }
     }
