@@ -12816,5 +12816,31 @@
     "start_date_local": "2026-04-19T11:55:57Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-22",
+    "distance": 639.2,
+    "elevation_gain": 15.9,
+    "id": "18214514861",
+    "moving_time": 73.0,
+    "name": "Evening Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-04-22T18:45:01Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-22",
+    "distance": 8083.6,
+    "elevation_gain": 30.4,
+    "id": "18216347610",
+    "moving_time": 3201.0,
+    "name": "Essen abholen mit Umweg",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-22T19:18:23Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
