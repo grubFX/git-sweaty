@@ -12881,5 +12881,18 @@
     "start_date_local": "2026-04-25T17:14:33Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-28",
+    "distance": 34530.0,
+    "elevation_gain": 104.0,
+    "id": "18295700071",
+    "moving_time": 5307.0,
+    "name": "Squadrats Hunt Nord",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-04-28T18:04:15Z",
+    "type": "GravelRide",
+    "year": 2026
   }
 ]
