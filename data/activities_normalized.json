@@ -12894,5 +12894,18 @@
     "start_date_local": "2026-04-28T18:04:15Z",
     "type": "GravelRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-29",
+    "distance": 5613.7,
+    "elevation_gain": 25.5,
+    "id": "18308387228",
+    "moving_time": 1726.0,
+    "name": "z\u00fcgige 5",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-29T18:14:31Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
