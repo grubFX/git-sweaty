@@ -12972,5 +12972,18 @@
     "start_date_local": "2026-05-01T13:18:32Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-01",
+    "distance": 35098.4,
+    "elevation_gain": 219.5,
+    "id": "18336926113",
+    "moving_time": 8352.0,
+    "name": "Wadenkrampf statt Klassenkampf",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-01T17:02:15Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
