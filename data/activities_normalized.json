@@ -12985,5 +12985,18 @@
     "start_date_local": "2026-05-01T17:02:15Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-03",
+    "distance": 30780.0,
+    "elevation_gain": 63.6,
+    "id": "18362308569",
+    "moving_time": 5806.0,
+    "name": "Sonntagsquatscherl",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-03T14:17:38Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
