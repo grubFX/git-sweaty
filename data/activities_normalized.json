@@ -12998,5 +12998,18 @@
     "start_date_local": "2026-05-03T14:17:38Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-05",
+    "distance": 8445.0,
+    "elevation_gain": 25.1,
+    "id": "18388785861",
+    "moving_time": 2847.0,
+    "name": "Dienstags (Mini) Intervalle",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-05T18:45:06Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
