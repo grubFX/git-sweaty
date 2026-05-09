@@ -13024,5 +13024,57 @@
     "start_date_local": "2026-05-07T15:28:59Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-08",
+    "distance": 10603.9,
+    "elevation_gain": 25.6,
+    "id": "18426871831",
+    "moving_time": 3589.0,
+    "name": "ab ins Wochenende",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-08T16:32:03Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-09",
+    "distance": 981.0,
+    "elevation_gain": 0.0,
+    "id": "18438595894",
+    "moving_time": 471.0,
+    "name": "Afternoon Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-09T14:52:52Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-09",
+    "distance": 522.1,
+    "elevation_gain": 3.1,
+    "id": "18439306597",
+    "moving_time": 176.0,
+    "name": "Afternoon Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-09T15:48:49Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-09",
+    "distance": 1202.4,
+    "elevation_gain": 0.0,
+    "id": "18439938778",
+    "moving_time": 928.0,
+    "name": "Afternoon Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-09T16:15:31Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
