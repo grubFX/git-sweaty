@@ -13102,5 +13102,18 @@
     "start_date_local": "2026-05-10T14:52:56Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-10",
+    "distance": 18681.7,
+    "elevation_gain": 32.0,
+    "id": "18454276412",
+    "moving_time": 6171.0,
+    "name": "WFL World Run 2026 \ud83c\udf1e",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-10T13:02:38Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
