@@ -13154,5 +13154,18 @@
     "start_date_local": "2026-05-14T11:10:35Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-05-15",
+    "distance": 10810.0,
+    "elevation_gain": 0.0,
+    "id": "18515620632",
+    "moving_time": 3972.0,
+    "name": "dem Schnee beim Schmelzen zuschaun",
+    "raw_activity_type": "VirtualRun",
+    "raw_type": "VirtualRun",
+    "start_date_local": "2026-05-15T10:43:19Z",
+    "type": "VirtualRun",
+    "year": 2026
   }
 ]
