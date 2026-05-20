@@ -7097,6 +7097,13 @@
       "subtype": "Walk",
       "type": "Walk",
       "year": 2026
+    },
+    {
+      "date": "2026-05-19",
+      "hour": 17,
+      "subtype": "Run",
+      "type": "Run",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -13508,6 +13515,15 @@
           "distance": 11514.0,
           "elevation_gain": 61.5,
           "moving_time": 4624.0
+        },
+        "2026-05-19": {
+          "activity_ids": [
+            "18570349790"
+          ],
+          "count": 1,
+          "distance": 9257.5,
+          "elevation_gain": 26.7,
+          "moving_time": 3510.0
         }
       },
       "Swim": {
@@ -13861,7 +13877,7 @@
       }
     }
   },
-  "generated_at": "2026-05-19T16:09:16.386000+00:00",
+  "generated_at": "2026-05-20T16:14:09.710518+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/35238334",
   "repo": "grubFX/git-sweaty",

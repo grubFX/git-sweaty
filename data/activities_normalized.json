@@ -13180,5 +13180,18 @@
     "start_date_local": "2026-05-16T11:13:20Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-05-19",
+    "distance": 9257.5,
+    "elevation_gain": 26.7,
+    "id": "18570349790",
+    "moving_time": 3510.0,
+    "name": "Kurzbesuch im Biberland \ud83c\udf33\ud83e\udebe\ud83c\udf33",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-19T17:24:09Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
