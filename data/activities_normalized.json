@@ -13219,5 +13219,18 @@
     "start_date_local": "2026-05-21T12:28:13Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-05-22",
+    "distance": 6788.7,
+    "elevation_gain": 19.7,
+    "id": "18610660757",
+    "moving_time": 2512.0,
+    "name": "Schwammerlrunde",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-22T18:06:45Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
