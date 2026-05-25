@@ -13258,5 +13258,18 @@
     "start_date_local": "2026-05-24T16:05:13Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-24",
+    "distance": 14800.0,
+    "elevation_gain": 62.2,
+    "id": "18638698602",
+    "moving_time": 3411.0,
+    "name": "Badespa\u00df mit Schwesterherz",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-24T11:48:12Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
