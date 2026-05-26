@@ -13271,5 +13271,44 @@
     "start_date_local": "2026-05-24T11:48:12Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-25",
+    "distance": 495.9,
+    "elevation_gain": 12.9,
+    "id": "18650129417",
+    "moving_time": 50.0,
+    "name": "Night Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-25T00:34:34Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-25",
+    "distance": 1184.2,
+    "elevation_gain": 0.0,
+    "id": "18650136196",
+    "moving_time": 581.0,
+    "name": "Lunch Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-05-25T12:01:49Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-25",
+    "distance": 46698.6,
+    "elevation_gain": 116.6,
+    "id": "18650293612",
+    "moving_time": 8009.0,
+    "name": "Montags Checks",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-25T14:46:13Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
