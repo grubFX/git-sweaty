@@ -13323,5 +13323,18 @@
     "start_date_local": "2026-05-26T20:25:08Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-28",
+    "distance": 21580.4,
+    "elevation_gain": 68.0,
+    "id": "18694467070",
+    "moving_time": 4086.0,
+    "name": "Outdoor Kartln",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-28T19:19:25Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
