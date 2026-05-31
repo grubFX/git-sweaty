@@ -13349,5 +13349,31 @@
     "start_date_local": "2026-05-29T19:16:21Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-30",
+    "distance": 460.9,
+    "elevation_gain": 8.0,
+    "id": "18719320546",
+    "moving_time": 91.0,
+    "name": "Evening Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-30T20:14:58Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-30",
+    "distance": 18730.0,
+    "elevation_gain": 51.1,
+    "id": "18722701399",
+    "moving_time": 4058.0,
+    "name": "Inselchillen extended",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-30T16:28:08Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
