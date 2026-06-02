@@ -13375,5 +13375,18 @@
     "start_date_local": "2026-05-30T16:28:08Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-01",
+    "distance": 7818.4,
+    "elevation_gain": 26.8,
+    "id": "18744971436",
+    "moving_time": 2679.0,
+    "name": "Gelsen im Wald besuchen",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-01T18:53:30Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
