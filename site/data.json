@@ -7209,6 +7209,69 @@
       "subtype": "Run",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-06-03",
+      "hour": 20,
+      "subtype": "Run",
+      "type": "Run",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-04",
+      "hour": 10,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-04",
+      "hour": 10,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-04",
+      "hour": 10,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-04",
+      "hour": 11,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-04",
+      "hour": 16,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-04",
+      "hour": 17,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-04",
+      "hour": 16,
+      "subtype": "GravelRide",
+      "type": "GravelRide",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-04",
+      "hour": 17,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -13015,6 +13078,15 @@
           "distance": 34530.0,
           "elevation_gain": 104.0,
           "moving_time": 5307.0
+        },
+        "2026-06-04": {
+          "activity_ids": [
+            "18785298881"
+          ],
+          "count": 1,
+          "distance": 9355.9,
+          "elevation_gain": 21.0,
+          "moving_time": 2100.0
         }
       },
       "Hike": {
@@ -13257,6 +13329,21 @@
           "distance": 19190.9,
           "elevation_gain": 59.1,
           "moving_time": 4149.0
+        },
+        "2026-06-04": {
+          "activity_ids": [
+            "18780541671",
+            "18780545393",
+            "18780769643",
+            "18781432496",
+            "18784993420",
+            "18785153883",
+            "18785319864"
+          ],
+          "count": 7,
+          "distance": 16863.5,
+          "elevation_gain": 110.39999999999999,
+          "moving_time": 3375.0
         }
       },
       "Run": {
@@ -13713,6 +13800,15 @@
           "distance": 7818.4,
           "elevation_gain": 26.8,
           "moving_time": 2679.0
+        },
+        "2026-06-03": {
+          "activity_ids": [
+            "18774765484"
+          ],
+          "count": 1,
+          "distance": 6891.5,
+          "elevation_gain": 27.8,
+          "moving_time": 2670.0
         }
       },
       "Swim": {
@@ -14085,7 +14181,7 @@
       }
     }
   },
-  "generated_at": "2026-06-03T16:36:41.663795+00:00",
+  "generated_at": "2026-06-04T16:10:42.401779+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/35238334",
   "repo": "grubFX/git-sweaty",
