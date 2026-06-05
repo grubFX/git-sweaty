@@ -13505,5 +13505,18 @@
     "start_date_local": "2026-06-04T17:29:43Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-04",
+    "distance": 40690.0,
+    "elevation_gain": 168.0,
+    "id": "18786294442",
+    "moving_time": 8326.0,
+    "name": "Feiertags Pumpen + Abschluss Eis",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-06-04T10:01:44Z",
+    "type": "GravelRide",
+    "year": 2026
   }
 ]
