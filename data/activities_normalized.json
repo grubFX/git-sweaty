@@ -13518,5 +13518,31 @@
     "start_date_local": "2026-06-04T10:01:44Z",
     "type": "GravelRide",
     "year": 2026
+  },
+  {
+    "date": "2026-06-06",
+    "distance": 15040.0,
+    "elevation_gain": 71.4,
+    "id": "18807066576",
+    "moving_time": 2687.0,
+    "name": "KLOTPIL",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-06T10:24:05Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-06",
+    "distance": 261.9,
+    "elevation_gain": 0.0,
+    "id": "18807806242",
+    "moving_time": 69.0,
+    "name": "Lunch Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-06T12:28:29Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
