@@ -13661,5 +13661,18 @@
     "start_date_local": "2026-06-12T16:01:02Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-12",
+    "distance": 12550.0,
+    "elevation_gain": 27.6,
+    "id": "18896100245",
+    "moving_time": 2194.0,
+    "name": "Bruno Marek Allee-ierten Besuch",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-12T16:01:01Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
