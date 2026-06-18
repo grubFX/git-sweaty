@@ -13739,5 +13739,18 @@
     "start_date_local": "2026-06-15T22:31:06Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-06-17",
+    "distance": 14520.0,
+    "elevation_gain": 79.3,
+    "id": "18961941370",
+    "moving_time": 6075.0,
+    "name": "slow and steady wins the Plantsch",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-17T18:20:52Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
