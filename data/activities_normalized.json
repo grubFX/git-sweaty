@@ -13778,5 +13778,70 @@
     "start_date_local": "2026-06-19T17:04:45Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-20",
+    "distance": 3431.8,
+    "elevation_gain": 17.1,
+    "id": "19002044252",
+    "moving_time": 2670.0,
+    "name": "UFO Sichtung",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-20T22:20:48Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-21",
+    "distance": 347.4,
+    "elevation_gain": 0.0,
+    "id": "19005104236",
+    "moving_time": 37.0,
+    "name": "Morning Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-21T07:36:15Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-21",
+    "distance": 830.4,
+    "elevation_gain": 0.0,
+    "id": "19005245035",
+    "moving_time": 198.0,
+    "name": "Morning Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-21T08:00:13Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-21",
+    "distance": 336.0,
+    "elevation_gain": 5.5,
+    "id": "19006861894",
+    "moving_time": 55.0,
+    "name": "Morning Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-21T10:49:14Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-21",
+    "distance": 288.7,
+    "elevation_gain": 3.9,
+    "id": "19011976501",
+    "moving_time": 203.0,
+    "name": "Afternoon Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-21T17:11:12Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
