@@ -13843,5 +13843,70 @@
     "start_date_local": "2026-06-21T17:11:12Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-06-21",
+    "distance": 684.9,
+    "elevation_gain": 0.0,
+    "id": "19012220319",
+    "moving_time": 186.0,
+    "name": "Afternoon Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-21T17:24:58Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-21",
+    "distance": 339.7,
+    "elevation_gain": 0.0,
+    "id": "19012423438",
+    "moving_time": 331.0,
+    "name": "Afternoon Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-06-21T17:48:41Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-21",
+    "distance": 980.0,
+    "elevation_gain": 11.7,
+    "id": "19013328701",
+    "moving_time": 825.0,
+    "name": "Festschwimmen",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-06-21T18:52:00Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-21",
+    "distance": 442.5,
+    "elevation_gain": 5.8,
+    "id": "19014275364",
+    "moving_time": 158.0,
+    "name": "Evening Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-21T20:46:48Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-21",
+    "distance": 4601.1,
+    "elevation_gain": 12.7,
+    "id": "19014909117",
+    "moving_time": 3414.0,
+    "name": "Evening Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-21T20:59:06Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]

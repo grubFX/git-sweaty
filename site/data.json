@@ -7454,6 +7454,41 @@
       "subtype": "Walk",
       "type": "Walk",
       "year": 2026
+    },
+    {
+      "date": "2026-06-21",
+      "hour": 17,
+      "subtype": "Walk",
+      "type": "Walk",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-21",
+      "hour": 17,
+      "subtype": "Swim",
+      "type": "Swim",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-21",
+      "hour": 18,
+      "subtype": "Swim",
+      "type": "Swim",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-21",
+      "hour": 20,
+      "subtype": "Walk",
+      "type": "Walk",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-21",
+      "hour": 20,
+      "subtype": "Walk",
+      "type": "Walk",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -14098,6 +14133,16 @@
           "distance": 625.0,
           "elevation_gain": 0.0,
           "moving_time": 595.0
+        },
+        "2026-06-21": {
+          "activity_ids": [
+            "19012423438",
+            "19013328701"
+          ],
+          "count": 2,
+          "distance": 1319.7,
+          "elevation_gain": 11.7,
+          "moving_time": 1156.0
         }
       },
       "VirtualRun": {
@@ -14499,17 +14544,20 @@
             "19005104236",
             "19005245035",
             "19006861894",
-            "19011976501"
+            "19011976501",
+            "19012220319",
+            "19014275364",
+            "19014909117"
           ],
-          "count": 4,
-          "distance": 1802.5,
-          "elevation_gain": 9.4,
-          "moving_time": 493.0
+          "count": 7,
+          "distance": 7531.0,
+          "elevation_gain": 27.9,
+          "moving_time": 4251.0
         }
       }
     }
   },
-  "generated_at": "2026-06-21T15:38:03.015114+00:00",
+  "generated_at": "2026-06-22T16:36:12.241803+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/35238334",
   "repo": "grubFX/git-sweaty",
