@@ -7503,6 +7503,13 @@
       "subtype": "Run",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-06-24",
+      "hour": 17,
+      "subtype": "GravelRide",
+      "type": "GravelRide",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -13319,6 +13326,15 @@
           "distance": 50045.9,
           "elevation_gain": 189.0,
           "moving_time": 10426.0
+        },
+        "2026-06-24": {
+          "activity_ids": [
+            "19052902167"
+          ],
+          "count": 1,
+          "distance": 23005.8,
+          "elevation_gain": 95.0,
+          "moving_time": 4300.0
         }
       },
       "Hike": {
@@ -14589,7 +14605,7 @@
       }
     }
   },
-  "generated_at": "2026-06-24T15:48:22.352476+00:00",
+  "generated_at": "2026-06-25T15:53:56.073533+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/35238334",
   "repo": "grubFX/git-sweaty",
