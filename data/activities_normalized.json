@@ -13954,11 +13954,50 @@
     "elevation_gain": 35.8,
     "id": "19063620117",
     "moving_time": 2734.0,
-    "name": "Afternoon Ride",
+    "name": "Radl in die Werkstatt",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
     "start_date_local": "2026-06-25T16:26:46Z",
     "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-26",
+    "distance": 2227.4,
+    "elevation_gain": 13.2,
+    "id": "19075166062",
+    "moving_time": 1629.0,
+    "name": "Einkaufen",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-26T16:54:54Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-26",
+    "distance": 9440.2,
+    "elevation_gain": 22.3,
+    "id": "19076922603",
+    "moving_time": 3470.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-26T20:02:26Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-27",
+    "distance": 464.3,
+    "elevation_gain": 6.0,
+    "id": "19086387449",
+    "moving_time": 379.0,
+    "name": "Afternoon Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-27T15:54:38Z",
+    "type": "Walk",
     "year": 2026
   }
 ]

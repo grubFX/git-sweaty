@@ -7517,6 +7517,27 @@
       "subtype": "Ride",
       "type": "Ride",
       "year": 2026
+    },
+    {
+      "date": "2026-06-26",
+      "hour": 16,
+      "subtype": "Walk",
+      "type": "Walk",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-26",
+      "hour": 20,
+      "subtype": "Run",
+      "type": "Run",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-27",
+      "hour": 15,
+      "subtype": "Walk",
+      "type": "Walk",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -14168,6 +14189,15 @@
           "distance": 8956.6,
           "elevation_gain": 23.1,
           "moving_time": 3287.0
+        },
+        "2026-06-26": {
+          "activity_ids": [
+            "19076922603"
+          ],
+          "count": 1,
+          "distance": 9440.2,
+          "elevation_gain": 22.3,
+          "moving_time": 3470.0
         }
       },
       "Swim": {
@@ -14617,11 +14647,29 @@
           "distance": 217.8,
           "elevation_gain": 0.0,
           "moving_time": 66.0
+        },
+        "2026-06-26": {
+          "activity_ids": [
+            "19075166062"
+          ],
+          "count": 1,
+          "distance": 2227.4,
+          "elevation_gain": 13.2,
+          "moving_time": 1629.0
+        },
+        "2026-06-27": {
+          "activity_ids": [
+            "19086387449"
+          ],
+          "count": 1,
+          "distance": 464.3,
+          "elevation_gain": 6.0,
+          "moving_time": 379.0
         }
       }
     }
   },
-  "generated_at": "2026-06-26T15:49:09.292206+00:00",
+  "generated_at": "2026-06-27T15:30:36.984734+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/35238334",
   "repo": "grubFX/git-sweaty",
