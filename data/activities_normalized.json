@@ -14233,5 +14233,44 @@
     "start_date_local": "2026-06-28T21:05:33Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-29",
+    "distance": 876.7,
+    "elevation_gain": 0.0,
+    "id": "19113308906",
+    "moving_time": 809.0,
+    "name": "Evening Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-29T19:21:26Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-29",
+    "distance": 924.5,
+    "elevation_gain": 8.8,
+    "id": "19114920823",
+    "moving_time": 1071.0,
+    "name": "Evening Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-06-29T19:40:07Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-29",
+    "distance": 3050.6,
+    "elevation_gain": 22.7,
+    "id": "19114926260",
+    "moving_time": 2465.0,
+    "name": "Heimweg",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-06-29T20:57:11Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
