@@ -14272,5 +14272,31 @@
     "start_date_local": "2026-06-29T20:57:11Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-06-30",
+    "distance": 413.8,
+    "elevation_gain": 0.0,
+    "id": "19129269148",
+    "moving_time": 119.0,
+    "name": "Night Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-30T22:05:09Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-30",
+    "distance": 19100.0,
+    "elevation_gain": 62.3,
+    "id": "19129471700",
+    "moving_time": 3381.0,
+    "name": "Sonne, Mond und Steine",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-30T20:19:34Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
