@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T15:27:06.395882+00:00",
+  "generated_at": "2026-07-05T15:29:22.961559+00:00",
   "years": {
     "2015": {
       "Run": {
@@ -6164,6 +6164,26 @@
           "distance": 19513.8,
           "elevation_gain": 62.3,
           "moving_time": 3500.0
+        },
+        "2026-07-03": {
+          "activity_ids": [
+            "19180096243",
+            "19180101388",
+            "19180106053"
+          ],
+          "count": 3,
+          "distance": 6786.3,
+          "elevation_gain": 24.9,
+          "moving_time": 1326.0
+        },
+        "2026-07-04": {
+          "activity_ids": [
+            "19180324186"
+          ],
+          "count": 1,
+          "distance": 48450.0,
+          "elevation_gain": 189.7,
+          "moving_time": 8592.0
         }
       },
       "Run": {
@@ -6683,6 +6703,15 @@
           "distance": 9440.2,
           "elevation_gain": 22.3,
           "moving_time": 3470.0
+        },
+        "2026-07-05": {
+          "activity_ids": [
+            "19189841580"
+          ],
+          "count": 1,
+          "distance": 7640.0,
+          "elevation_gain": 23.1,
+          "moving_time": 2391.0
         }
       },
       "Swim": {
@@ -7204,6 +7233,35 @@
           "distance": 3927.3,
           "elevation_gain": 22.7,
           "moving_time": 3274.0
+        },
+        "2026-07-02": {
+          "activity_ids": [
+            "19180081729"
+          ],
+          "count": 1,
+          "distance": 897.2,
+          "elevation_gain": 2.2,
+          "moving_time": 455.0
+        },
+        "2026-07-03": {
+          "activity_ids": [
+            "19180086581",
+            "19180091424"
+          ],
+          "count": 2,
+          "distance": 1529.0,
+          "elevation_gain": 11.2,
+          "moving_time": 928.0
+        },
+        "2026-07-04": {
+          "activity_ids": [
+            "19180277407",
+            "19180281816"
+          ],
+          "count": 2,
+          "distance": 1667.0,
+          "elevation_gain": 3.3,
+          "moving_time": 1723.0
         }
       }
     }
