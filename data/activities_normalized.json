@@ -14441,5 +14441,18 @@
     "start_date_local": "2026-07-07T18:34:01Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-08",
+    "distance": 24329.6,
+    "elevation_gain": 82.9,
+    "id": "19233580102",
+    "moving_time": 4168.0,
+    "name": "k\u00fchl & kitschig",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-08T19:35:21Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
