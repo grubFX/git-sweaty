@@ -14571,5 +14571,83 @@
     "start_date_local": "2026-07-14T04:10:38Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-07-16",
+    "distance": 12028.3,
+    "elevation_gain": 29.3,
+    "id": "19334132369",
+    "moving_time": 1985.0,
+    "name": "Lunch Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-16T11:24:31Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-16",
+    "distance": 1047.0,
+    "elevation_gain": 0.0,
+    "id": "19334246616",
+    "moving_time": 370.0,
+    "name": "Lunch Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-16T12:01:30Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-16",
+    "distance": 1152.2,
+    "elevation_gain": 3.2,
+    "id": "19334631518",
+    "moving_time": 277.0,
+    "name": "Lunch Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-16T12:38:11Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-16",
+    "distance": 1949.9,
+    "elevation_gain": 8.6,
+    "id": "19335832127",
+    "moving_time": 2300.0,
+    "name": "Afternoon Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-07-16T13:30:48Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-16",
+    "distance": 1518.8,
+    "elevation_gain": 16.2,
+    "id": "19336197855",
+    "moving_time": 1418.0,
+    "name": "Afternoon Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-07-16T14:14:02Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-16",
+    "distance": 822.4,
+    "elevation_gain": 0.0,
+    "id": "19336676817",
+    "moving_time": 503.0,
+    "name": "Afternoon Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-07-16T15:05:31Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
