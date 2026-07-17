@@ -14649,5 +14649,83 @@
     "start_date_local": "2026-07-16T15:05:31Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-07-16",
+    "distance": 110.0,
+    "elevation_gain": 0.0,
+    "id": "19341447595",
+    "moving_time": 258.0,
+    "name": "Afternoon Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-07-16T17:04:57Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-16",
+    "distance": 25980.0,
+    "elevation_gain": 81.5,
+    "id": "19341585120",
+    "moving_time": 4503.0,
+    "name": "Bike & Swim",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-16T11:24:30Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-17",
+    "distance": 6108.5,
+    "elevation_gain": 44.0,
+    "id": "19346032754",
+    "moving_time": 1065.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-07-17T08:34:10Z",
+    "type": "GravelRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-17",
+    "distance": 6393.2,
+    "elevation_gain": 48.8,
+    "id": "19346040162",
+    "moving_time": 1185.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-17T08:33:25Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-17",
+    "distance": 6869.8,
+    "elevation_gain": 16.0,
+    "id": "19347797169",
+    "moving_time": 1167.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-07-17T11:45:25Z",
+    "type": "GravelRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-17",
+    "distance": 613.7,
+    "elevation_gain": 0.0,
+    "id": "19348510188",
+    "moving_time": 119.0,
+    "name": "Lunch Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-17T11:55:00Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

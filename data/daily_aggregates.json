@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T15:34:13.443933+00:00",
+  "generated_at": "2026-07-17T15:30:28.856502+00:00",
   "years": {
     "2015": {
       "Run": {
@@ -5823,6 +5823,16 @@
           "distance": 23005.8,
           "elevation_gain": 95.0,
           "moving_time": 4300.0
+        },
+        "2026-07-17": {
+          "activity_ids": [
+            "19346032754",
+            "19347797169"
+          ],
+          "count": 2,
+          "distance": 12978.3,
+          "elevation_gain": 60.0,
+          "moving_time": 2232.0
         }
       },
       "Hike": {
@@ -6216,12 +6226,23 @@
           "activity_ids": [
             "19334132369",
             "19334246616",
-            "19334631518"
+            "19334631518",
+            "19341585120"
           ],
-          "count": 3,
-          "distance": 14227.5,
-          "elevation_gain": 32.5,
-          "moving_time": 2632.0
+          "count": 4,
+          "distance": 40207.5,
+          "elevation_gain": 114.0,
+          "moving_time": 7135.0
+        },
+        "2026-07-17": {
+          "activity_ids": [
+            "19346040162",
+            "19348510188"
+          ],
+          "count": 2,
+          "distance": 7006.9,
+          "elevation_gain": 48.8,
+          "moving_time": 1304.0
         }
       },
       "Run": {
@@ -6809,6 +6830,15 @@
           "distance": 924.5,
           "elevation_gain": 8.8,
           "moving_time": 1071.0
+        },
+        "2026-07-16": {
+          "activity_ids": [
+            "19341447595"
+          ],
+          "count": 1,
+          "distance": 110.0,
+          "elevation_gain": 0.0,
+          "moving_time": 258.0
         }
       },
       "TrailRun": {
