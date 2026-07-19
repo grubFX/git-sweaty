@@ -14729,6 +14729,19 @@
     "year": 2026
   },
   {
+    "date": "2026-07-17",
+    "distance": 12980.0,
+    "elevation_gain": 60.2,
+    "id": "19372189979",
+    "moving_time": 2253.0,
+    "name": "Laufanalyse & Bikefit",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-17T08:33:24Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
     "date": "2026-07-18",
     "distance": 4949.7,
     "elevation_gain": 8.8,
@@ -14738,6 +14751,19 @@
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
     "start_date_local": "2026-07-18T14:30:03Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-18",
+    "distance": 14550.0,
+    "elevation_gain": 54.4,
+    "id": "19371882103",
+    "moving_time": 3118.0,
+    "name": "Picknick, Frisbee & Abendprogramm",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-18T14:30:01Z",
     "type": "Ride",
     "year": 2026
   }
