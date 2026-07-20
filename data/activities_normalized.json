@@ -14766,5 +14766,18 @@
     "start_date_local": "2026-07-18T14:30:01Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-19",
+    "distance": 47478.5,
+    "elevation_gain": 112.2,
+    "id": "19380803460",
+    "moving_time": 5944.0,
+    "name": "Inselcheck: noch alles da",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-19T18:40:32Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
