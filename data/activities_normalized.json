@@ -14779,5 +14779,18 @@
     "start_date_local": "2026-07-19T18:40:32Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-20",
+    "distance": 24790.0,
+    "elevation_gain": 83.5,
+    "id": "19394366395",
+    "moving_time": 4159.0,
+    "name": "Doppelplantsch",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-20T19:11:48Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
