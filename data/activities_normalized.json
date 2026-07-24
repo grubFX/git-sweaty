@@ -14851,11 +14851,37 @@
     "elevation_gain": 75.6,
     "id": "19421732214",
     "moving_time": 4212.0,
-    "name": "Evening Ride",
+    "name": "Evening Ride + Dip",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
     "start_date_local": "2026-07-22T18:28:30Z",
     "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-24",
+    "distance": 1986.9,
+    "elevation_gain": 4.3,
+    "id": "19445306438",
+    "moving_time": 1677.0,
+    "name": "Afternoon Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-07-24T14:30:54Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-24",
+    "distance": 9413.4,
+    "elevation_gain": 27.1,
+    "id": "19446239287",
+    "moving_time": 3199.0,
+    "name": "Afternoon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-24T15:19:45Z",
+    "type": "Run",
     "year": 2026
   }
 ]
