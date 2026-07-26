@@ -14896,5 +14896,44 @@
     "start_date_local": "2026-07-25T14:10:51Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-25",
+    "distance": 63970.0,
+    "elevation_gain": 454.0,
+    "id": "19464166855",
+    "moving_time": 12615.0,
+    "name": "Werft to Bisam to Tony's",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-07-25T14:07:51Z",
+    "type": "GravelRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-25",
+    "distance": 61512.4,
+    "elevation_gain": 415.2,
+    "id": "19464375967",
+    "moving_time": 12180.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-25T14:15:51Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-26",
+    "distance": 5060.7,
+    "elevation_gain": 8.8,
+    "id": "19469124887",
+    "moving_time": 1002.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-26T10:40:24Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
