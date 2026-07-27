@@ -14935,5 +14935,18 @@
     "start_date_local": "2026-07-26T10:40:24Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-26",
+    "distance": 10310.0,
+    "elevation_gain": 25.4,
+    "id": "19477425703",
+    "moving_time": 1886.0,
+    "name": "zum und vom Zirkus",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-26T10:40:22Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
