@@ -14948,5 +14948,31 @@
     "start_date_local": "2026-07-26T10:40:22Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-28",
+    "distance": 12877.3,
+    "elevation_gain": 24.6,
+    "id": "19504671640",
+    "moving_time": 4356.0,
+    "name": "dies, das, D\u00fcr\u00fcm",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-28T19:11:44Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-28",
+    "distance": 1485.7,
+    "elevation_gain": 19.3,
+    "id": "19504679538",
+    "moving_time": 1006.0,
+    "name": "Evening Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-07-28T20:33:23Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
