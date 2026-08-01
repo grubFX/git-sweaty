@@ -14987,5 +14987,31 @@
     "start_date_local": "2026-07-30T22:41:13Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-31",
+    "distance": 30780.0,
+    "elevation_gain": 115.0,
+    "id": "19548406061",
+    "moving_time": 6651.0,
+    "name": "we have Triathlon at home",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-31T18:48:38Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-01",
+    "distance": 13584.5,
+    "elevation_gain": 31.7,
+    "id": "19553229521",
+    "moving_time": 2162.0,
+    "name": "Backofen Simulation drau\u00dfen",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-01T10:14:06Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
