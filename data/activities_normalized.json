@@ -15052,5 +15052,44 @@
     "start_date_local": "2026-08-03T20:02:21Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-05",
+    "distance": 11795.5,
+    "elevation_gain": 26.7,
+    "id": "19617030639",
+    "moving_time": 2126.0,
+    "name": "Evening Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-05T20:23:18Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-05",
+    "distance": 26220.0,
+    "elevation_gain": 81.3,
+    "id": "19618492769",
+    "moving_time": 5055.0,
+    "name": "der schon wieder \ud83d\ude9c",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-05T20:23:17Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-06",
+    "distance": 24921.0,
+    "elevation_gain": 79.3,
+    "id": "19632066784",
+    "moving_time": 4135.0,
+    "name": "Bike, Bad, Buch, Bike",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-06T19:51:15Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
