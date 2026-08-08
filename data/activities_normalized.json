@@ -15091,5 +15091,18 @@
     "start_date_local": "2026-08-06T19:51:15Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-07",
+    "distance": 38433.2,
+    "elevation_gain": 107.3,
+    "id": "19646113095",
+    "moving_time": 8152.0,
+    "name": "Radeln for Future",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-07T16:31:59Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
