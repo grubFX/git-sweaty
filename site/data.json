@@ -8133,6 +8133,34 @@
       "subtype": "Ride",
       "type": "Ride",
       "year": 2026
+    },
+    {
+      "date": "2026-08-08",
+      "hour": 17,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-09",
+      "hour": 11,
+      "subtype": "Swim",
+      "type": "Swim",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-09",
+      "hour": 13,
+      "subtype": "Swim",
+      "type": "Swim",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-09",
+      "hour": 13,
+      "subtype": "Walk",
+      "type": "Walk",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -14502,6 +14530,15 @@
           "distance": 38433.2,
           "elevation_gain": 107.3,
           "moving_time": 8152.0
+        },
+        "2026-08-08": {
+          "activity_ids": [
+            "19659213124"
+          ],
+          "count": 1,
+          "distance": 25727.9,
+          "elevation_gain": 90.4,
+          "moving_time": 4579.0
         }
       },
       "Run": {
@@ -15152,6 +15189,16 @@
           "distance": 49.0,
           "elevation_gain": 0.0,
           "moving_time": 40.0
+        },
+        "2026-08-09": {
+          "activity_ids": [
+            "19665050174",
+            "19666983514"
+          ],
+          "count": 2,
+          "distance": 182.0,
+          "elevation_gain": 0.0,
+          "moving_time": 339.0
         }
       },
       "TrailRun": {
@@ -15723,11 +15770,20 @@
           "distance": 1485.7,
           "elevation_gain": 19.3,
           "moving_time": 1006.0
+        },
+        "2026-08-09": {
+          "activity_ids": [
+            "19667234969"
+          ],
+          "count": 1,
+          "distance": 761.5,
+          "elevation_gain": 0.0,
+          "moving_time": 642.0
         }
       }
     }
   },
-  "generated_at": "2026-08-08T15:09:15.704315+00:00",
+  "generated_at": "2026-08-09T15:10:17.597023+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/35238334",
   "repo": "grubFX/git-sweaty",
