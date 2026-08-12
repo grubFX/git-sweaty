@@ -15169,5 +15169,44 @@
     "start_date_local": "2026-08-10T20:42:35Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-11",
+    "distance": 3629.6,
+    "elevation_gain": 8.8,
+    "id": "19698670945",
+    "moving_time": 619.0,
+    "name": "Evening Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-11T18:14:33Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-11",
+    "distance": 5576.2,
+    "elevation_gain": 0.0,
+    "id": "19700741396",
+    "moving_time": 2109.0,
+    "name": "VCM Sunset Pace & Power",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-11T20:09:14Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-11",
+    "distance": 3709.5,
+    "elevation_gain": 17.1,
+    "id": "19701074478",
+    "moving_time": 693.0,
+    "name": "Night Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-11T21:16:10Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
