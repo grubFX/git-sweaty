@@ -15247,5 +15247,83 @@
     "start_date_local": "2026-08-13T19:22:25Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-14",
+    "distance": 9669.5,
+    "elevation_gain": 55.9,
+    "id": "19744146159",
+    "moving_time": 1824.0,
+    "name": "Night Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-14T23:31:12Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-14",
+    "distance": 66168.9,
+    "elevation_gain": 429.0,
+    "id": "19744847233",
+    "moving_time": 12597.0,
+    "name": "Perseiden schauen",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-08-14T18:13:10Z",
+    "type": "GravelRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-15",
+    "distance": 8396.4,
+    "elevation_gain": 26.7,
+    "id": "19744399783",
+    "moving_time": 1551.0,
+    "name": "Night Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-15T00:09:24Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-15",
+    "distance": 249.2,
+    "elevation_gain": 0.0,
+    "id": "19744622928",
+    "moving_time": 31.0,
+    "name": "Night Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-15T01:01:37Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-15",
+    "distance": 471.8,
+    "elevation_gain": 0.0,
+    "id": "19744841239",
+    "moving_time": 119.0,
+    "name": "Night Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-15T01:06:25Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-15",
+    "distance": 181.7,
+    "elevation_gain": 0.0,
+    "id": "19753714820",
+    "moving_time": 32.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-15T16:35:16Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
