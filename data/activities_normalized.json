@@ -15325,5 +15325,57 @@
     "start_date_local": "2026-08-15T16:35:16Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-15",
+    "distance": 1783.7,
+    "elevation_gain": 0.0,
+    "id": "19756518193",
+    "moving_time": 402.0,
+    "name": "Evening Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-15T20:07:01Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-15",
+    "distance": 1454.3,
+    "elevation_gain": 7.4,
+    "id": "19756626924",
+    "moving_time": 378.0,
+    "name": "Evening Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-15T20:20:10Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-15",
+    "distance": 660.6,
+    "elevation_gain": 2.2,
+    "id": "19756858587",
+    "moving_time": 236.0,
+    "name": "Evening Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-15T20:46:12Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-15",
+    "distance": 26250.0,
+    "elevation_gain": 76.1,
+    "id": "19758530781",
+    "moving_time": 4937.0,
+    "name": "Baden, Pegelcheck & Sterne schaun",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-15T16:35:15Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
