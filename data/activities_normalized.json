@@ -15377,5 +15377,18 @@
     "start_date_local": "2026-08-15T16:35:15Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-17",
+    "distance": 6891.0,
+    "elevation_gain": 26.4,
+    "id": "19784282822",
+    "moving_time": 2323.0,
+    "name": "1 LSU Solidarit\u00e4tsloop",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-17T21:04:20Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
