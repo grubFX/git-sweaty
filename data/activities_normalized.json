@@ -15416,5 +15416,18 @@
     "start_date_local": "2026-08-19T19:40:52Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-21",
+    "distance": 41603.2,
+    "elevation_gain": 92.4,
+    "id": "19840248554",
+    "moving_time": 9139.0,
+    "name": "zwischen Feuer und Wasser",
+    "raw_activity_type": "Ride",
+    "raw_type": "MountainBikeRide",
+    "start_date_local": "2026-08-21T15:56:21Z",
+    "type": "MountainBikeRide",
+    "year": 2026
   }
 ]
