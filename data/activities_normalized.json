@@ -15429,5 +15429,83 @@
     "start_date_local": "2026-08-21T15:56:21Z",
     "type": "MountainBikeRide",
     "year": 2026
+  },
+  {
+    "date": "2026-08-22",
+    "distance": 44256.0,
+    "elevation_gain": 691.5,
+    "id": "19854744139",
+    "moving_time": 9946.0,
+    "name": "mehr Motivation als Energie \ud83e\udeab",
+    "raw_activity_type": "Ride",
+    "raw_type": "MountainBikeRide",
+    "start_date_local": "2026-08-22T16:48:36Z",
+    "type": "MountainBikeRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-23",
+    "distance": 788.1,
+    "elevation_gain": 3.9,
+    "id": "19860583329",
+    "moving_time": 539.0,
+    "name": "Morning Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-08-23T10:22:41Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-23",
+    "distance": 1218.8,
+    "elevation_gain": 6.3,
+    "id": "19861284295",
+    "moving_time": 943.0,
+    "name": "Lunch Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-08-23T11:09:31Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-23",
+    "distance": 6781.5,
+    "elevation_gain": 32.5,
+    "id": "19864300972",
+    "moving_time": 5046.0,
+    "name": "Lunch Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-08-23T12:20:04Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-23",
+    "distance": 6968.2,
+    "elevation_gain": 14.2,
+    "id": "19864685567",
+    "moving_time": 1257.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-23T14:31:06Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-23",
+    "distance": 284.8,
+    "elevation_gain": 0.0,
+    "id": "19864765264",
+    "moving_time": 175.0,
+    "name": "Afternoon Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-08-23T14:58:23Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
