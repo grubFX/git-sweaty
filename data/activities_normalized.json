@@ -15507,5 +15507,31 @@
     "start_date_local": "2026-08-23T14:58:23Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-08-23",
+    "distance": 610.2,
+    "elevation_gain": 0.0,
+    "id": "19868262154",
+    "moving_time": 432.0,
+    "name": "Afternoon Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-08-23T17:11:40Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-23",
+    "distance": 18260.0,
+    "elevation_gain": 87.3,
+    "id": "19869129638",
+    "moving_time": 3407.0,
+    "name": "mobiler, einspuriger Umzugshelfer",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-23T14:31:05Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
