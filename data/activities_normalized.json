@@ -15559,5 +15559,18 @@
     "start_date_local": "2026-08-25T22:29:02Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-26",
+    "distance": 23379.3,
+    "elevation_gain": 80.1,
+    "id": "19920005644",
+    "moving_time": 4074.0,
+    "name": "Evening Ride + Dip",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-26T18:41:04Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
