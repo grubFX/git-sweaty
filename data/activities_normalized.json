@@ -15572,5 +15572,18 @@
     "start_date_local": "2026-08-26T18:41:04Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-27",
+    "distance": 40598.6,
+    "elevation_gain": 106.7,
+    "id": "19928368536",
+    "moving_time": 8955.0,
+    "name": "umteifln",
+    "raw_activity_type": "Ride",
+    "raw_type": "MountainBikeRide",
+    "start_date_local": "2026-08-27T17:47:30Z",
+    "type": "MountainBikeRide",
+    "year": 2026
   }
 ]
