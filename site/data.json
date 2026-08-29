@@ -8387,8 +8387,29 @@
       "year": 2026
     },
     {
+      "date": "2026-08-26",
+      "hour": 18,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
+    },
+    {
       "date": "2026-08-27",
       "hour": 17,
+      "subtype": "MountainBikeRide",
+      "type": "MountainBikeRide",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-27",
+      "hour": 17,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-29",
+      "hour": 9,
       "subtype": "MountainBikeRide",
       "type": "MountainBikeRide",
       "year": 2026
@@ -14294,6 +14315,15 @@
           "distance": 40598.6,
           "elevation_gain": 106.7,
           "moving_time": 8955.0
+        },
+        "2026-08-29": {
+          "activity_ids": [
+            "19950474080"
+          ],
+          "count": 1,
+          "distance": 56930.1,
+          "elevation_gain": 564.4,
+          "moving_time": 13115.0
         }
       },
       "Ride": {
@@ -14884,12 +14914,22 @@
         },
         "2026-08-26": {
           "activity_ids": [
-            "19920005644"
+            "19920005644",
+            "19950457099"
+          ],
+          "count": 2,
+          "distance": 47010.3,
+          "elevation_gain": 160.5,
+          "moving_time": 8137.0
+        },
+        "2026-08-27": {
+          "activity_ids": [
+            "19950465227"
           ],
           "count": 1,
-          "distance": 23379.3,
-          "elevation_gain": 80.1,
-          "moving_time": 4074.0
+          "distance": 41291.4,
+          "elevation_gain": 106.8,
+          "moving_time": 9012.0
         }
       },
       "Run": {
@@ -16201,7 +16241,7 @@
       }
     }
   },
-  "generated_at": "2026-08-28T19:05:14.464410+00:00",
+  "generated_at": "2026-08-29T15:10:16.206322+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/35238334",
   "repo": "grubFX/git-sweaty",

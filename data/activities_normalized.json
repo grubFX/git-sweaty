@@ -15574,6 +15574,19 @@
     "year": 2026
   },
   {
+    "date": "2026-08-26",
+    "distance": 23631.0,
+    "elevation_gain": 80.4,
+    "id": "19950457099",
+    "moving_time": 4063.0,
+    "name": "Evening Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-26T18:40:51Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
     "date": "2026-08-27",
     "distance": 40598.6,
     "elevation_gain": 106.7,
@@ -15583,6 +15596,32 @@
     "raw_activity_type": "Ride",
     "raw_type": "MountainBikeRide",
     "start_date_local": "2026-08-27T17:47:30Z",
+    "type": "MountainBikeRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-27",
+    "distance": 41291.4,
+    "elevation_gain": 106.8,
+    "id": "19950465227",
+    "moving_time": 9012.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-27T17:47:14Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-29",
+    "distance": 56930.1,
+    "elevation_gain": 564.4,
+    "id": "19950474080",
+    "moving_time": 13115.0,
+    "name": "Bisam bergauf bergab",
+    "raw_activity_type": "Ride",
+    "raw_type": "MountainBikeRide",
+    "start_date_local": "2026-08-29T09:10:29Z",
     "type": "MountainBikeRide",
     "year": 2026
   }
