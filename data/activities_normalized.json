@@ -15637,5 +15637,31 @@
     "start_date_local": "2026-08-30T15:18:04Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-30",
+    "distance": 1425.5,
+    "elevation_gain": 0.0,
+    "id": "19967190984",
+    "moving_time": 214.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-30T17:44:00Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-30",
+    "distance": 17610.0,
+    "elevation_gain": 45.4,
+    "id": "19972164772",
+    "moving_time": 3030.0,
+    "name": "Beidseitbaden",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-30T17:49:49Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
