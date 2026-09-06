@@ -15676,5 +15676,18 @@
     "start_date_local": "2026-09-02T20:34:16Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-05",
+    "distance": 50210.0,
+    "elevation_gain": 997.3,
+    "id": "20056148724",
+    "moving_time": 12281.0,
+    "name": "Gaudimaxxing",
+    "raw_activity_type": "Ride",
+    "raw_type": "MountainBikeRide",
+    "start_date_local": "2026-09-05T14:09:51Z",
+    "type": "MountainBikeRide",
+    "year": 2026
   }
 ]
