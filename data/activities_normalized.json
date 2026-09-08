@@ -15689,5 +15689,31 @@
     "start_date_local": "2026-09-05T14:09:51Z",
     "type": "MountainBikeRide",
     "year": 2026
+  },
+  {
+    "date": "2026-09-07",
+    "distance": 7562.6,
+    "elevation_gain": 24.0,
+    "id": "20076402239",
+    "moving_time": 2523.0,
+    "name": "f\u00fcnf Hendl f\u00fcr einen Haxler",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-07T18:00:12Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-07",
+    "distance": 304.6,
+    "elevation_gain": 2.4,
+    "id": "20076489011",
+    "moving_time": 98.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-07T18:49:02Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

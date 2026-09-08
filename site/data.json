@@ -8448,6 +8448,20 @@
       "subtype": "MountainBikeRide",
       "type": "MountainBikeRide",
       "year": 2026
+    },
+    {
+      "date": "2026-09-07",
+      "hour": 18,
+      "subtype": "Run",
+      "type": "Run",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-07",
+      "hour": 18,
+      "subtype": "Run",
+      "type": "Run",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -15603,6 +15617,16 @@
           "distance": 8725.9,
           "elevation_gain": 25.1,
           "moving_time": 3033.0
+        },
+        "2026-09-07": {
+          "activity_ids": [
+            "20076402239",
+            "20076489011"
+          ],
+          "count": 2,
+          "distance": 7867.200000000001,
+          "elevation_gain": 26.4,
+          "moving_time": 2621.0
         }
       },
       "Swim": {
@@ -16305,7 +16329,7 @@
       }
     }
   },
-  "generated_at": "2026-09-07T15:12:17.344741+00:00",
+  "generated_at": "2026-09-08T15:13:02.506249+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/35238334",
   "repo": "grubFX/git-sweaty",
