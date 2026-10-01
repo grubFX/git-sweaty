@@ -15871,5 +15871,18 @@
     "start_date_local": "2026-09-28T19:03:44Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-30",
+    "distance": 21379.1,
+    "elevation_gain": 63.4,
+    "id": "20397421761",
+    "moving_time": 4185.0,
+    "name": "Hendlgeburtstasgoutdoorfeierung",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-30T17:07:10Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
