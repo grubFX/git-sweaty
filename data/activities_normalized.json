@@ -15884,5 +15884,31 @@
     "start_date_local": "2026-09-30T17:07:10Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-10-02",
+    "distance": 15009.2,
+    "elevation_gain": 26.4,
+    "id": "20424467673",
+    "moving_time": 3842.0,
+    "name": "FM4 Unlimited im Prater",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-02T20:05:24Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-03",
+    "distance": 29118.4,
+    "elevation_gain": 79.8,
+    "id": "20435888673",
+    "moving_time": 5069.0,
+    "name": "Wetter top, Radl waschen flop",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-10-03T16:04:12Z",
+    "type": "GravelRide",
+    "year": 2026
   }
 ]
