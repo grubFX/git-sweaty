@@ -15910,5 +15910,70 @@
     "start_date_local": "2026-10-03T16:04:12Z",
     "type": "GravelRide",
     "year": 2026
+  },
+  {
+    "date": "2026-10-04",
+    "distance": 6383.7,
+    "elevation_gain": 13.8,
+    "id": "20442835963",
+    "moving_time": 1080.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-04T09:42:22Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-04",
+    "distance": 6540.7,
+    "elevation_gain": 15.0,
+    "id": "20442837998",
+    "moving_time": 1075.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-10-04T09:37:58Z",
+    "type": "GravelRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-04",
+    "distance": 67420.9,
+    "elevation_gain": 350.0,
+    "id": "20447828970",
+    "moving_time": 12808.0,
+    "name": "Starbike Schnitziflitzi 2026",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-10-04T10:22:27Z",
+    "type": "GravelRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-04",
+    "distance": 67205.8,
+    "elevation_gain": 293.7,
+    "id": "20447887865",
+    "moving_time": 12721.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-04T10:03:47Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-04",
+    "distance": 5822.5,
+    "elevation_gain": 18.0,
+    "id": "20450599509",
+    "moving_time": 972.0,
+    "name": "Evening Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-04T18:00:04Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
