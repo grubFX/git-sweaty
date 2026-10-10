@@ -16040,5 +16040,83 @@
     "start_date_local": "2026-10-08T18:32:08Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-09",
+    "distance": 1697.4,
+    "elevation_gain": 8.4,
+    "id": "20517443845",
+    "moving_time": 339.0,
+    "name": "Evening Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-09T18:33:43Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-09",
+    "distance": 3434.6,
+    "elevation_gain": 3.5,
+    "id": "20517882136",
+    "moving_time": 679.0,
+    "name": "Evening Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-09T18:39:53Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-09",
+    "distance": 4385.7,
+    "elevation_gain": 16.8,
+    "id": "20518989636",
+    "moving_time": 868.0,
+    "name": "Evening Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-09T20:56:28Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-10",
+    "distance": 344.6,
+    "elevation_gain": 0.0,
+    "id": "20524836764",
+    "moving_time": 393.0,
+    "name": "Lunch Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-10-10T11:11:50Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-10",
+    "distance": 2790.0,
+    "elevation_gain": 0.0,
+    "id": "20528981649",
+    "moving_time": 3328.0,
+    "name": "Wein- und Sturmwandern \ud83c\udf77",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-10-10T12:26:12Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-10",
+    "distance": 394.7,
+    "elevation_gain": 4.2,
+    "id": "20529422590",
+    "moving_time": 553.0,
+    "name": "Afternoon Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-10-10T16:41:34Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
