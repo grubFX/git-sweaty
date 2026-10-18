@@ -16196,5 +16196,70 @@
     "start_date_local": "2026-10-16T16:58:08Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-10-17",
+    "distance": 464.7,
+    "elevation_gain": 7.1,
+    "id": "20624568766",
+    "moving_time": 544.0,
+    "name": "Evening Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-10-17T18:39:49Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-17",
+    "distance": 502.4,
+    "elevation_gain": 5.9,
+    "id": "20625722394",
+    "moving_time": 583.0,
+    "name": "Evening Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-10-17T20:40:14Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-17",
+    "distance": 534.7,
+    "elevation_gain": 5.0,
+    "id": "20626005316",
+    "moving_time": 585.0,
+    "name": "Night Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-10-17T21:19:35Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-18",
+    "distance": 843.4,
+    "elevation_gain": 8.0,
+    "id": "20633905665",
+    "moving_time": 735.0,
+    "name": "Afternoon Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-10-18T13:30:26Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-18",
+    "distance": 8062.5,
+    "elevation_gain": 19.5,
+    "id": "20635854103",
+    "moving_time": 6207.0,
+    "name": "Herbstsonne \ud83c\udf1e",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-10-18T13:53:30Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
