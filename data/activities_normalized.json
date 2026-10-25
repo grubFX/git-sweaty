@@ -16274,5 +16274,18 @@
     "start_date_local": "2026-10-22T19:25:21Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-24",
+    "distance": 32865.0,
+    "elevation_gain": 78.4,
+    "id": "20715040018",
+    "moving_time": 5673.0,
+    "name": "Herbstfarben & Kurioses \ud83c\udf42",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-24T16:04:56Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
