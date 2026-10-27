@@ -16287,5 +16287,18 @@
     "start_date_local": "2026-10-24T16:04:56Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-10-26",
+    "distance": 17397.8,
+    "elevation_gain": 55.7,
+    "id": "20738859043",
+    "moving_time": 3110.0,
+    "name": "Schnupfnase ausrollen",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-26T15:42:18Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
