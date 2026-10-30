@@ -16313,5 +16313,18 @@
     "start_date_local": "2026-10-28T13:21:30Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-10-29",
+    "distance": 8844.6,
+    "elevation_gain": 20.6,
+    "id": "20781972196",
+    "moving_time": 3264.0,
+    "name": "Intervallos",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-29T18:36:33Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
