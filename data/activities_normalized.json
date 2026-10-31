@@ -16326,5 +16326,57 @@
     "start_date_local": "2026-10-29T18:36:33Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-30",
+    "distance": 4701.5,
+    "elevation_gain": 6.3,
+    "id": "20796348482",
+    "moving_time": 1379.0,
+    "name": "Night Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-10-30T22:20:06Z",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-31",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20799656351",
+    "moving_time": 15.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-31T09:12:31Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-31",
+    "distance": 59172.4,
+    "elevation_gain": 926.7,
+    "id": "20805149887",
+    "moving_time": 15126.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-10-31T09:23:35Z",
+    "type": "GravelRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-31",
+    "distance": 313.5,
+    "elevation_gain": 3.0,
+    "id": "20805191770",
+    "moving_time": 104.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-31T09:10:27Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
