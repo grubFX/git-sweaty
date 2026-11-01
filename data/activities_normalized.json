@@ -16378,5 +16378,18 @@
     "start_date_local": "2026-10-31T09:10:27Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-10-31",
+    "distance": 59170.0,
+    "elevation_gain": 927.0,
+    "id": "20806745521",
+    "moving_time": 14970.0,
+    "name": "Herbstmaxxing\ud83c\udf42",
+    "raw_activity_type": "Ride",
+    "raw_type": "MountainBikeRide",
+    "start_date_local": "2026-10-31T09:10:25Z",
+    "type": "MountainBikeRide",
+    "year": 2026
   }
 ]
