@@ -16430,5 +16430,31 @@
     "start_date_local": "2026-11-06T17:28:15Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-11-07",
+    "distance": 12239.6,
+    "elevation_gain": 76.0,
+    "id": "20896883091",
+    "moving_time": 2444.0,
+    "name": "Mittagssnack",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-11-07T12:49:54Z",
+    "type": "GravelRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-07",
+    "distance": 793.7,
+    "elevation_gain": 5.0,
+    "id": "20898022010",
+    "moving_time": 701.0,
+    "name": "Afternoon Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-11-07T17:39:33Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]
