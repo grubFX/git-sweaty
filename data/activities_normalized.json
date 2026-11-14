@@ -16534,5 +16534,18 @@
     "start_date_local": "2026-11-11T19:59:22Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-14",
+    "distance": 32235.0,
+    "elevation_gain": 80.8,
+    "id": "20984340637",
+    "moving_time": 5018.0,
+    "name": "kurz in die Sonne \ud83c\udf1e",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-11-14T11:37:54Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
