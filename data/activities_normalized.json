@@ -16586,5 +16586,18 @@
     "start_date_local": "2026-11-19T18:08:01Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-20",
+    "distance": 21540.9,
+    "elevation_gain": 130.5,
+    "id": "21063412162",
+    "moving_time": 6732.0,
+    "name": "Critical Mass 2026-11",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-11-20T16:48:14Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
